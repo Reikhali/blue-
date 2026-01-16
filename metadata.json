@@ -1,0 +1,9 @@
+{
+  "name": "PRISMA IA PRO",
+  "description": "Assistente Avançado de Opções Binárias usando Gemini Vision para análise de timeframe de 1M.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
